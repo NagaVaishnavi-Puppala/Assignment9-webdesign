@@ -1,0 +1,56 @@
+nav {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background: linear-gradient(112.1deg, rgb(77, 238, 253) 0.7%, rgb(3, 151, 232) 26.1%, rgb(47, 31, 116) 95.7%);
+    padding: 20px;
+    font-size: 18px;
+    font-weight: bold;
+  }
+  nav a {
+    color: #ffffff;
+    text-decoration: none;
+    margin: 0 10px;
+  }
+
+  nav a:hover {
+    color: #cc0000;
+  }
+
+  footer {
+    position: absolute;
+    width: 100%;
+    height: 2.5rem;
+    bottom: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50px;
+    background-color: #ebff0c;
+    color: #fff;
+    font-size: 18px;
+    font-weight: bold;
+  }
+
+  .card-img{
+    width: 1000px;
+    height: 500px;
+  }
+
+  .component{
+    color: rgb(0, 0, 0);
+    font-weight: 500;
+    background: linear-gradient(120deg, #a1c4fd 0%, #c2e9fb 100%);
+  }
+
+  .col-lg-6 image-div{
+    width: 1000px;
+    height: 1000px;
+  }
+.navbar navbar-expand-lg navbar-dark bg-dark{
+  background: linear-gradient(120deg, #a1c4fd 0%, #c2e9fb 100%);
+}
+body{
+
+  background: linear-gradient(-225deg, #5D9FFF 0%, #B8DCFF 48%, #6BBBFF 100%);
+}

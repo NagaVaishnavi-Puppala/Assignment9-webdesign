@@ -1,0 +1,19 @@
+.navbar{
+    
+    background-color: white;
+    height: 50px;
+}
+
+.rightside{
+    text-decoration: none;
+    margin: auto;
+    width: 60%;
+    display: inline;
+    justify-content: space-around;
+}
+a:-webkit-any-link {
+    color: -webkit-link;
+    cursor: pointer;
+    text-decoration: none;
+    padding: 20px;
+}
